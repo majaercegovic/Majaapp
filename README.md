@@ -1,0 +1,2 @@
+# Majaapp
+aplikacija zavrsni
